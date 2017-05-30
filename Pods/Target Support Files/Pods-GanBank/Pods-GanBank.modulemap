@@ -1,0 +1,6 @@
+framework module Pods_GanBank {
+  umbrella header "Pods-GanBank-umbrella.h"
+
+  export *
+  module * { export * }
+}
