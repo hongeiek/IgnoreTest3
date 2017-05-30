@@ -28,6 +28,14 @@ xcuserdata/
 *.dSYM.zip
 *.dSYM
 
+### Xcode Patch ###
+*.xcodeproj/*
+*.xcodeproj/project.pbxproj
+*.xcodeproj/xcshareddata/
+*.xcworkspace/contents.xcworkspacedata
+*.xcworkspace/xcuserdata/
+/*.gcno
+
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
